@@ -1,0 +1,30 @@
+{
+  "Users": [
+    {
+      "name": "Rishva",
+      "pass": "Admin@123"
+    },
+    {
+      "name": "Mittal",
+      "pass": "Mittal@1803"
+    },
+    {
+      "name": "Aarushi",
+      "pass": "Aaru@13"
+    },
+    {
+      "name": "Dhruv",
+      "pass": "Dhruv@27"
+    },
+    {
+      "name": "Ronak",
+      "pass": "Ronak@1412"
+    }
+  ],
+  "Admins": [
+    {
+      "name": "Manali",
+      "pass": "Admin@123"
+    }
+  ]
+}

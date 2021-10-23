@@ -1,0 +1,15 @@
+{
+  "jwtPrivateKey": "Private_Key",
+  "expiration":"120s",
+  "DB":{
+    "Mongo":{
+      "host":"localhost",
+      "port":27017,
+      "driver":"mongodb",
+      "DBName":"CinemaTalks"
+    }
+  }
+  
+
+}
+
